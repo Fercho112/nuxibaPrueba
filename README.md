@@ -1,7 +1,7 @@
 
 # EVALUACIÓN TÉCNICA NUXIBA #
 
-Aspirante : "Fernando Leon" 
+Aspirante : Fernando Leon
 
 Prueba: **DESARROLLADOR JR**
 
