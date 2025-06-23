@@ -34,6 +34,9 @@ const UserList = ({ onOpenPosts, onOpenTodos }) => {
                                     <p className="text-lg">
                                         <span className="font-medium">Email :</span> {user.email}
                                     </p>
+                                    <p className="text-lg">
+                                        <span className="font-medium">Numero :</span> {user.phone}
+                                    </p>
                                     <p>
                                         <span className="font-medium">Website:</span> {user.website || 'N/A'}
                                     </p>
